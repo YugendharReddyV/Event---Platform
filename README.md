@@ -90,4 +90,3 @@ Backend API:
   (4) npm run dev
 
 🧑‍💻 Author : Yugendhar Reddy
-Username : YugendharReddyV
