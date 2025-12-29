@@ -68,27 +68,25 @@ Backend API:
 ## 📦 Installation & Setup (Local Environment)
 
 - Backend :
-- cd server
-- npm install
+  cd server
+  npm install
   
 - Create .env file inside server/:
-- MONGO_URI=<your-mongodb-url>
-- JWT_SECRET=<any-secret-string>
-- CLIENT_URL=http://localhost:5173
+  MONGO_URI=<your-mongodb-url>
+  JWT_SECRET=<any-secret-string>
+  CLIENT_URL=http://localhost:5173
 
 - Start Backend (server) : npm run dev
 
 - Frontend :
-- cd client
-- npm install
+  cd client
+  npm install
 
 - Create .env file inside client/ :
-- VITE_API_URL=http://localhost:5000/api
+  VITE_API_URL=http://localhost:5000/api
 
 - Start Frontend (client) : npm run dev
 
 
-🧑‍💻 Author
-
-Yugendhar Reddy
+🧑‍💻 Author : Yugendhar Reddy
 Username : YugendharReddyV
